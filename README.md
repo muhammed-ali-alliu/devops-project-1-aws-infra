@@ -1,6 +1,6 @@
 #  Project 1 — AWS Basic Infrastructure Deployment (S3 + EC2)
 
-## 🚀 Overview
+##  Overview
 
 This project demonstrates how to provision foundational cloud infrastructure on **AWS** using **Terraform**. It includes:
 - A public **S3 bucket** for scalable object storage
