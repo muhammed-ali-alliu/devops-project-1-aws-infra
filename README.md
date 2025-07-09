@@ -1,4 +1,4 @@
-# 📦 Project 1 — AWS Basic Infrastructure Deployment (S3 + EC2)
+#  Project 1 — AWS Basic Infrastructure Deployment (S3 + EC2)
 
 ## 🚀 Overview
 
@@ -10,7 +10,7 @@ Everything is automated through Infrastructure as Code (IaC) using Terraform.
 
 ---
 
-## 🧱 Architecture
+##  Architecture
 
         +------------------------+
         |      AWS Cloud        |
@@ -29,7 +29,7 @@ Everything is automated through Infrastructure as Code (IaC) using Terraform.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **AWS**
   - S3
@@ -42,7 +42,7 @@ Everything is automated through Infrastructure as Code (IaC) using Terraform.
 
 ---
 
-## 🔧 How to Deploy
+##  How to Deploy
 
 1. Clone this repository
 2. Navigate to the `terraform` folder:
@@ -52,7 +52,7 @@ Everything is automated through Infrastructure as Code (IaC) using Terraform.
 terraform init
 terraform apply -var="bucket_name=<your-unique-bucket-name>"
 
-⭐ STAR Story
+ STAR Story
 Situation:
 I wanted to gain hands-on DevOps experience by provisioning cloud resources with Terraform.
 
@@ -65,7 +65,7 @@ Set up AWS CLI and IAM, installed Terraform, wrote resource definitions, applied
 Result:
 Successfully deployed and managed infrastructure using Infrastructure as Code. The project is now published to GitHub as part of a growing DevOps portfolio.
 
-📝 Lessons Learned
+Lessons Learned
 Working with AWS IAM, EC2, and S3 from the ground up
 
 Writing clean, modular Terraform configurations
